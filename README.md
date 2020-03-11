@@ -1,3 +1,3 @@
 # Chess
-<h3>Chess project for Java course</h3>
-<p>Employs use of JavaFX for GUI</p>
+<h3> Chess GUI built with Java, JavaFX </h3>
+<p> Employs object-oriented concepts such as polymorphism and inheritance </p>
